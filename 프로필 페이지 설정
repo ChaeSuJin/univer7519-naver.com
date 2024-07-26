@@ -19,5 +19,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaesujin&" alt="chaesujin" /></p>
 
+poetry install             # 의존성 설치
+poetry shell               # 가상환경에 진입
+python manage.py runserver # 서버 실행
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pocaricode12)](https://solved.ac/pocaricode12)
 <img src="http://mazandi.herokuapp.com/api?pocaricode12={pocaricode12}&theme=warm"/>
